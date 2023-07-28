@@ -5,7 +5,8 @@
   "main": "server/server.js",
   "scripts": {
     "start": "nodemon server/server.js",
-    "server": "node server/server.js"
+    "server": "node server/server.js",
+    "build": "nodemon server/server.js"
   },
   "keywords": [],
   "author": "Urizen",
